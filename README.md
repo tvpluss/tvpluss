@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tvpluss
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and anything related
-- 💞️ I’m looking to collaborate on a web project
+- 🌱 I’m currently learning and working with NestJs, React and anything in-between
+- 💞️ I’m open for freelancing jobs.
 - 📫 Contact me at truongphuocst310301@gmail.com
 
 <!---
